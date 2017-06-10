@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="0dp"
+    android:layout_width="0dp">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nva_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_collection"
+            android:icon="@drawable/ic_stars_black_24dp"
+            android:title="@string/nav_collection" />
+    </group>
+</menu>

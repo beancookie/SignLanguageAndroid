@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">手语检索</string>
+    <string name="author_email">BUG反馈:724821454@qq.com</string>
+    <string name="search_hint">输入文字</string>
+    <string name="collection_hint">查询收藏词汇</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_collection">词汇收藏夹</string>
+    <string name="toolbar_back">返回</string>
+    <string name="toolbar_search">搜索</string>
+</resources>
